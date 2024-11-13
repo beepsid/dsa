@@ -15,6 +15,7 @@ Feel free to explore each folder and dive into any topic you're interested in!
 ## 📁 Topics Covered
 
 ### Core Data Structures
+1. **[Patterns]**(Patterns)
 1. **Arrays**
 2. **Linked Lists**
 3. **Stacks**
