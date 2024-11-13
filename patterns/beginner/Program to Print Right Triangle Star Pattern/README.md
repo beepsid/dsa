@@ -6,13 +6,13 @@ Given an integer `n`, print a pattern that forms a right triangle with numbers. 
 ### Example:
 For `n = 5`, the output should be:
 
-
+```
 1
 1 2
 1 2 3
 1 2 3 4
 1 2 3 4 5
-
+```
 
 ## Algorithm:
 
@@ -61,8 +61,10 @@ End
 
 ### **Expected Output:**
 
+```
 1
 1 2
 1 2 3
 1 2 3 4
 1 2 3 4 5
+```
