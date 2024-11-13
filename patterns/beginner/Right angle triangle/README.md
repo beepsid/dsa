@@ -1,4 +1,4 @@
-# Pattern Printing (Right Triangle of Numbers)
+# [Pattern Printing (Right Triangle of Numbers)](https://www.geeksforgeeks.org/java-program-to-print-right-triangle-star-pattern/)
 
 ## Problem Description:
 Given an integer `n`, print a pattern that forms a right triangle with numbers. Each row `i` (where `i` ranges from 1 to `n`) contains numbers starting from 1 up to `i`.
