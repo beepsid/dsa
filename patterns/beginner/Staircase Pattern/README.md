@@ -1,4 +1,4 @@
-# Staircase Problem
+# [Staircase Problem](https://www.hackerrank.com/challenges/staircase/problem)
 
 This repository contains the solution approach to the **Staircase Problem**, a common programming challenge.
 
