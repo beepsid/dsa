@@ -1,4 +1,4 @@
-# [Pattern Printing (Increasing Number Triangle)](https://www.naukri.com/code360/problems/increasing-number-triangle_6581893?leftPanelTabValue=PROBLEM)
+# [Increasing Number Triangle](https://www.naukri.com/code360/problems/increasing-number-triangle_6581893?leftPanelTabValue=PROBLEM)
 
 ## Problem Description:
 Given an integer `n`, print a pattern that forms a right triangle with consecutive numbers. Each row `i` (where `i` ranges from `1` to `n`) contains numbers starting from the next consecutive number in sequence, creating an increasing pattern across rows.

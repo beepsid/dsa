@@ -45,14 +45,13 @@ This approach ensures that each row is aligned to the right and that the number 
 
 Here’s a pseudocode representation of the solution:
 
-```
+```plaintext
 function staircase(n):
     for i from 1 to n:
         spaces = n - i
         hashes = i
         print (spaces * " ") + (hashes * "#")
 ```
-
 
 In this pseudocode:
 - `spaces * " "` creates a string of spaces for alignment.
