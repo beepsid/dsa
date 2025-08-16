@@ -1,4 +1,4 @@
-# [Print Name N Times]
+# Print Name N Times
 
 This repository contains the solution approach to the **Print Name N Times Problem**, a fundamental recursion programming challenge.
 
